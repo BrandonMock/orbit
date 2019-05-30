@@ -1,0 +1,15 @@
+C:\MOCK\Test\orbit\orbit\bin\Debug\Project1.exe.config
+C:\MOCK\Test\orbit\orbit\bin\Debug\Project1.exe
+C:\MOCK\Test\orbit\orbit\bin\Debug\Project1.pdb
+C:\MOCK\Test\orbit\orbit\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\MOCK\Test\orbit\orbit\bin\Debug\System.Security.AccessControl.dll
+C:\MOCK\Test\orbit\orbit\bin\Debug\System.Security.Permissions.dll
+C:\MOCK\Test\orbit\orbit\bin\Debug\System.Security.Principal.Windows.dll
+C:\MOCK\Test\orbit\orbit\obj\Debug\orbit.Form1.resources
+C:\MOCK\Test\orbit\orbit\obj\Debug\orbit.Properties.Resources.resources
+C:\MOCK\Test\orbit\orbit\obj\Debug\orbit.csproj.GenerateResource.cache
+C:\MOCK\Test\orbit\orbit\obj\Debug\orbit.csproj.CoreCompileInputs.cache
+C:\MOCK\Test\orbit\orbit\obj\Debug\orbit.csproj.CopyComplete
+C:\MOCK\Test\orbit\orbit\obj\Debug\Project1.exe
+C:\MOCK\Test\orbit\orbit\obj\Debug\Project1.pdb
+C:\MOCK\Test\orbit\orbit\obj\Debug\orbit.csprojAssemblyReference.cache
